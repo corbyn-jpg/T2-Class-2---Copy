@@ -7,3 +7,7 @@ let y = 6;
 let z = x + y;
 
 document.getElementById('math').innerHTML = "The value of z is " + z;
+
+function myFunction(){
+    alert("How are you?");
+}
